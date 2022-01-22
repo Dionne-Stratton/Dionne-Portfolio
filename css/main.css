@@ -2,7 +2,6 @@
 
 /* Basic */
 
-
 html {
   box-sizing: border-box;
 }
@@ -11,7 +10,7 @@ html {
   box-sizing: inherit;
 }
 
-/* font adjustments */
+/* Font adjustments */
 
 html {
   font-size: 12pt;
@@ -22,7 +21,6 @@ html {
     font-size: 10pt;
   }
 }
-
 
 body {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -47,7 +45,6 @@ h5,
 h6 {
   font-weight: 300;
 }
-
 
 h1 {
   font-size: 3.5rem;
@@ -116,6 +113,7 @@ a {
 a:hover {
   color: #0a7e8d;
 }
+
 /* Button */
 
 button,
@@ -144,7 +142,7 @@ button:hover,
   position: relative;
 }
 
-/* list */
+/* List */
 
 ul.list {
   list-style: none;
@@ -207,7 +205,7 @@ ul.list li {
   }
 }
 
-/* projects */
+/* Projects */
 
 .projects {
   display: flex;
@@ -261,7 +259,7 @@ ul.list li {
   }
 }
 
-/* wrapper */
+/* Wrapper */
 
 .wrapper {
   padding: 3.5rem;
@@ -270,7 +268,7 @@ ul.list li {
   width: 64rem;
 }
 
-/* items */
+/* Items */
 
 .items {
   display: flex;
